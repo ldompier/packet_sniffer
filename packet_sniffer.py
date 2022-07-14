@@ -22,4 +22,5 @@ def process_sniffed_packet(packet):
                     break
 
 
+
 sniff("wlan0")
